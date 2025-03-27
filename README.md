@@ -32,13 +32,13 @@ Presença Aula 1: https://forms.gle/xSfYPeJbm1V7shKbA
 - Redes neurais convencionais
 - Redes neurais convolucionais
 
-### Conteúdo da Primeira Aula
+### Conteúdo da Primeira Aula (21/03)
 
 - Introdução à área de Machine Learning
 - Classificador linear
 - Algoritmo Perceptron
 
-### Conteúdo da Segunda Aula
+### Conteúdo da Segunda Aula (28/03)
 
 - Margin Boundary
 - Regularização
