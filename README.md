@@ -38,3 +38,9 @@ Presença Aula 1: https://forms.gle/xSfYPeJbm1V7shKbA
 - Classificador linear
 - Algoritmo Perceptron
 
+### Conteúdo da Primeira Aula
+
+- Margin Boundary
+- Regularização
+- Stochastic Gradient Descent
+- Análise de Sentimento
