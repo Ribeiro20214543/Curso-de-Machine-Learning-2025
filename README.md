@@ -8,7 +8,7 @@
 **Datas:** Todas as sextas-feiras, de 21/03/2025 a 02/05/2025  
 **Transmissão ao vivo:** [DataICMC no YouTube](https://www.youtube.com/@DataICMC)
 
-🚨 Aviso Importante! 🚨
+## 🚨 Aviso Importante! 🚨
 
 Nesta sexta-feira, 04/04/2025, não haverá aula do Curso de Machine Learning. Infelizmente, devido a um evento de última hora, não teremos acesso ao auditório nessa data.
 
