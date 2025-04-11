@@ -49,3 +49,5 @@ Presença Aula 1: https://forms.gle/xSfYPeJbm1V7shKbA
 - Regressão Linear
 - Feature Transformation
 - Regressão Polinomial
+
+Presença: https://forms.gle/P9YaxkXmbGor65EB8
