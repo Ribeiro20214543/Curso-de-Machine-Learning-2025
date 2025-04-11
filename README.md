@@ -8,13 +8,6 @@
 **Datas:** Todas as sextas-feiras, de 21/03/2025 a 02/05/2025  
 **Transmissão ao vivo:** [DataICMC no YouTube](https://www.youtube.com/@DataICMC)
 
-## 🚨 Aviso Importante! 🚨
-
-Nesta sexta-feira, 04/04/2025, não haverá aula do Curso de Machine Learning. Infelizmente, devido a um evento de última hora, não teremos acesso ao auditório nessa data.
-
-Retomaremos normalmente na semana seguinte, dia 11/04/2025. Agradecemos a compreensão de todos!
-
-
 ## Informações Importantes
 
 - **Certificado:** O curso oferecerá certificado de conclusão.
@@ -50,3 +43,9 @@ Presença Aula 1: https://forms.gle/xSfYPeJbm1V7shKbA
 - Regularização
 - Stochastic Gradient Descent
 - Análise de Sentimento
+
+### Conteúdo da Terceira Aula (11/04)
+
+- Regressão Linear
+- Feature Transformation
+- Regressão Polinomial
