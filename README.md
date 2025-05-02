@@ -50,4 +50,10 @@ Presença Aula 1: https://forms.gle/xSfYPeJbm1V7shKbA
 - Feature Transformation
 - Regressão Polinomial
 
-Presença: https://forms.gle/P9YaxkXmbGor65EB8
+### Conteúdo da Quarta Aula Aula (02/05)
+
+- Funções Kernel
+- Kernel Perceptron
+- SVM
+
+Presença: https://forms.gle/LQ6ydMa3mE9kLBgt6
