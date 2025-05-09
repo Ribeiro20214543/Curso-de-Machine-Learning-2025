@@ -55,7 +55,7 @@ A presença será registrada e estará disponível por uma semana a partir do in
 
 Presença: https://forms.gle/LQ6ydMa3mE9kLBgt6
 
-### Conteúdo da Qinta Aula Aula (00905)
+### Conteúdo da Qinta Aula Aula (09/05) - Horário: 13:30 às 15:30
 
 - Sistemas de Recomendação
 - KNN
