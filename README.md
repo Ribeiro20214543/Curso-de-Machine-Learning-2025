@@ -53,7 +53,7 @@ A presença será registrada e estará disponível por uma semana a partir do in
 - Kernel Perceptron
 - SVM
 
-### Conteúdo da Qinta Aula Aula (09/05) - Horário: 13:30 às 15:30
+### Conteúdo da Quinta Aula Aula (09/05) - Horário: 13:30 às 15:30
 
 - Sistemas de Recomendação
 - KNN
