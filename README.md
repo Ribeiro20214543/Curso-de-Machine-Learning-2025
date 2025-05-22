@@ -3,7 +3,7 @@
 
 <p align="center"> <img width="250px" src="imgs/cursoml.jpg" alt="Curso de Machine Learning 2025"> </p>
 
-**Horário:** 14:20 às 16:00. Dia 09/05 será das 13:30 às 15:30  
+**Horário:** 14:20 às 16:00
 **Local:** Auditório Fernão Stella de Rodrigues Germano do ICMC, Bloco 6  
 **Transmissão ao vivo:** [DataICMC no YouTube](https://www.youtube.com/@DataICMC)
 
