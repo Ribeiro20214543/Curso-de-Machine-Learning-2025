@@ -59,10 +59,10 @@ A presença será registrada e estará disponível por uma semana a partir do in
 - KNN
 - Collaborative Filtering
 
-Presença: https://forms.gle/hAqjZum5Eh4un4N48
-
-### Conteúdo da Sexta Aula (22/05)
+### Conteúdo da Sexta Aula (23/05)
 
 - Redes Neurais
 - Backpropagation
 - Reconhecimento de dígitos
+
+Presença: https://forms.gle/enDZeChskoa7fwQH6
