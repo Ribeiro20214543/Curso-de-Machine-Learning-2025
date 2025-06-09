@@ -1,0 +1,27 @@
+# ignora qualquer pasta chamada venv ou yolov8-env em qualquer nível
+**/venv/
+**/yolov8-env/
+**/.env/
+
+
+# ignora arquivos de cache do Python em qualquer pasta
+**/__pycache__/
+**/*.py[cod]
+**/*.pyo
+
+# ignora arquivos temporários e logs em qualquer lugar
+**/*.log
+**/*.tmp
+**/*.bak
+
+# ignora arquivos ocultos do sistema
+**/.DS_Store
+**/Thumbs.db
+
+# ignora checkpoints de notebooks
+**/.ipynb_checkpoints/
+
+# ignora qualquer saída exportada de detecção
+**/saida_*.*
+**/output_*.*
+**/detected_*.*
